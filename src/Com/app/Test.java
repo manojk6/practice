@@ -8,7 +8,6 @@ public class Test {
 	}
 	
 	
-	
 	static int anothermethod(){
 		int n=20;
 		return n;
