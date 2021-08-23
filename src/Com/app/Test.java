@@ -1,4 +1,4 @@
-package Com.app;
+package com.app;
 
 public class Test {
 	
