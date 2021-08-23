@@ -7,6 +7,8 @@ public class Test {
 		System.out.println(anothermethod());
 	}
 	
+	
+	
 	static int anothermethod(){
 		int n=20;
 		return n;
